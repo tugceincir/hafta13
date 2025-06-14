@@ -1,0 +1,1 @@
+Bu hafta, HTTP taleplerinde sahte kimlik kullanmayı öğrendik. Sunucuya Firefox tarayıcısından geliyormuş gibi görünen bir uygulama geliştirdik.
